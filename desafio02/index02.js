@@ -1,4 +1,4 @@
-// problemAdapter.js
+// ProblemAdapter.js
 
 class LegacyPaymentSystem {
     makePayment(amount) {
